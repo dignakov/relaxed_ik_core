@@ -121,3 +121,9 @@ or [*An Autonomous Dynamic Camera Method for Effective Remote Teleoperation*](ht
 }
 ```
 
+
+# Python Wrapper PIP
+
+`python3 setup.py bdist_wheel` from the root direcetory
+
+then install the wheel
