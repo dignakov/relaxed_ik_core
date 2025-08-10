@@ -14,3 +14,8 @@ wrappers/__pycache__/
 
 # webassembly files
 /pkg/
+
+
+build
+dist
+*.egg-info
