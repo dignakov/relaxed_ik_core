@@ -4,5 +4,4 @@ base_links:
   - base_link
 ee_links:
   - tool0
-starting_config: [0.0, 0.785, -1.57, 0.0, -0.785, 0.0]
-obstacles:
+starting_config: [ 0.0, 0.785, -1.57, 0.0, -0.785, 0.0 ]
